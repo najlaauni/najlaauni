@@ -4,7 +4,7 @@
 💻 fun fact : I love learning new tech stuff, especially when it makes life easier (or just looks cool).
 
 ## Recent Projects
-🛍️ https://github.com/najlaauni/NZStoreReceiptSystem
+🛍️ [NZ Store Receipt System](https://github.com/najlaauni/NZStoreReceiptSystem)
 <!--
 **najlaauni/najlaauni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

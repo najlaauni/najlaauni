@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Najla Auni ! ✨
+👩🏻‍🎓 First year Data Engineering student from Universiti Teknologi Malaysia
+🗺️ Spoken Languages : English, Malay
+💻 fun fact : I love learning new tech stuff, especially when it makes life easier (or just looks cool).
 
 <!--
 **najlaauni/najlaauni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

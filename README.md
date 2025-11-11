@@ -18,6 +18,5 @@
 - Pursue PhD and become a lecturer  
 - Continue building smart, efficient systems
 
-## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/najlaauni) | [Email Me](najlaauni@gmail.com)
+
 

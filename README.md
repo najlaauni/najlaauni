@@ -8,24 +8,24 @@
 - Interested in data analysis, software systems, and automatio
 
 ## 🌱 Education
-Universiti Teknologi Malaysia (2025 – Present)<br>
+- Universiti Teknologi Malaysia (2025 – Present)<br>
     - Course: Bachelor of Computer Science (Data Engineering) with Honors
 
-Kolej Mara Kuala Nerang (2024 – 2025)<br>
+- Kolej Mara Kuala Nerang (2024 – 2025)<br>
     - Course: Foundation in Engineering and Technology<br>
     - CGPA: 4.0<br>
     - MUET: Band 4.0<br>
 
-SMK Sultanah Asma (2019 – 2024)<br>
+- SMK Sultanah Asma (2019 – 2024)<br>
     - SPM: 7A 2B+
 
 ## 🤝 Position
-Kolej Mara Kuala Nerang<br>
+- Kolej Mara Kuala Nerang<br>
     - Unit Tindakan Khas Kolej Kediaman (UTK) -- 2024-2025<br>
     - Chess Club (Gift and Souvenir Committee) -- 2024-2025<br>
     - Muay Thai Club (Welfare Committee) -- 2025<br>
 
-SMK Sultanah Asma<br>
+- SMK Sultanah Asma<br>
     - Librarian (Treasurer) -- 2022-2023<br>
     - Carrer Club (Board Committee) -- 2019-2023<br>
     - Pandu Puteri (AJK Tingkatan 5) -- 2023<br>

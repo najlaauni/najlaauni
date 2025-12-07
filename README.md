@@ -21,7 +21,7 @@
 
 ## 🤝 Position
 - Kolej Mara Kuala Nerang<br>
-    - Unit Tindakan Khas Kolej Kediaman (UTK) -- 2024-2025<br>
+    - Unit Tindakan Khas Kolej Kediaman (Acivity Unit & Entrepreneurship Unit) -- 2024-2025<br>
     - Chess Club (Gift and Souvenir Committee) -- 2024-2025<br>
     - Muay Thai Club (Welfare Committee) -- 2025<br>
 

@@ -29,7 +29,7 @@
     - Librarian (Treasurer) -- 2022-2023<br>
     - Carrer Club (Board Committee) -- 2019-2023<br>
     - Pandu Puteri (AJK Tingkatan 5) -- 2023<br>
-    - Netball Club (Active Members) -- 2019-2023<br>
+    - Netball Club (Entrepreneurship Unit) -- 2019-2023<br>
     - Student of Commendable Character -- 2023<br>
 
 ## 🏆 Certificates & Awards

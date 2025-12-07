@@ -34,9 +34,7 @@
 
 ## 🏆 Certificates & Awards
 3rd place in Explorace (Victernal Week) - 2025<br>
-7st place in Aerodance Interclass Competition - 2025<br>
 Participated in KMKN Chess Workshop (National Level) - 2024<br>
-Participated in Traditional Game Competition - 2024<br>
 2nd place in Anti-Drug e-Flipbook - 2023<br>
 1st place in Anti-Drug e-Poster - 2023<br>
 1st place in Raya Video Competition - 2023<br>

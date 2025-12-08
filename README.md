@@ -46,10 +46,10 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 
 ## 📚 Courses
 [SECI1013 - Discrete Structure](https://github.com/najlaauni/UniversityLife/tree/main/SECI1013%20-%20Discrete%20Structure)<br>
-[SECJ1013 - Programming Technique I](https://github.com/najlaauni/SECJ1013---Programming-Technique-I)<br>
-[SECP1513 - Technology and Information System](https://github.com/najlaauni/SECP1513---Technology-and-Information-System)<br>
-[SECR1013 - Digital Logic](https://github.com/najlaauni/SECR1013---Digital-Logic)<br>
-[ULRS1032 - Integrity and Anti-Corruption](https://github.com/najlaauni/ULRS1032---Integrity-and-Anti-Corruption)<br>
+[SECJ1013 - Programming Technique I](https://github.com/najlaauni/UniversityLife/tree/main/SECJ1013%20-%20Programming%20Technique%20I)<br>
+[SECP1513 - Technology and Information System](https://github.com/najlaauni/UniversityLife/tree/main/SECP1513%20-%20Technology%20and%20Information%20System)<br>
+[SECR1013 - Digital Logic](https://github.com/najlaauni/UniversityLife/tree/main/SECR1013%20-%20Digital%20Logic)<br>
+[ULRS1032 - Integrity and Anti-Corruption](https://github.com/najlaauni/UniversityLife/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)<br>
 
 ## Recent Projects
 🛍️ [NZ Store Receipt System](https://github.com/najlaauni/NZStoreReceiptSystem)

@@ -45,7 +45,7 @@ Participated in Kuiz Kimia Kebangsaan Malaysia (K₃M) - 2023<br>
 Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 
 ## 📚 Courses
-[SECI1013 - Discrete Structure](https://github.com/najlaauni/SECI1013---Discrete-Structure)<br>
+[SECI1013 - Discrete Structure](https://github.com/najlaauni/UniversityLife/tree/main/SECI1013%20-%20Discrete%20Structure)<br>
 [SECJ1013 - Programming Technique I](https://github.com/najlaauni/SECJ1013---Programming-Technique-I)<br>
 [SECP1513 - Technology and Information System](https://github.com/najlaauni/SECP1513---Technology-and-Information-System)<br>
 [SECR1013 - Digital Logic](https://github.com/najlaauni/SECR1013---Digital-Logic)<br>

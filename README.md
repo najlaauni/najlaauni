@@ -52,7 +52,8 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 [ULRS1032 - Integrity and Anti-Corruption](https://github.com/najlaauni/UniversityLife/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)<br>
 
 ## Recent Projects
-🛍️ [NZ Store Receipt System](https://github.com/najlaauni/NZStoreReceiptSystem)
+🛍️ [NZ Store Receipt System](https://github.com/najlaauni/UniversityProject/tree/main/NZ%20Store%20Receipt%20System)
+🚗 [Car Rental Programme](https://github.com/najlaauni/UniversityProject/tree/main/Car%20Rental%20Programme)
 
 ## 🧠 Skills
 - Programming: C++, HTML, CSS 

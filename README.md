@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 - Passionate about coding, teaching, and continuous learning.
-- Interested in data analysis, software systems, and automatio
+- Interested in data analysis, software systems, and automation.
 
 ## 🌱 Education
 - Universiti Teknologi Malaysia (2025 – Present)<br>

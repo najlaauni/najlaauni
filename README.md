@@ -71,6 +71,4 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 🔗 GitHub: [najlaauni](https://github.com/najlaauni)<br>
 📧 Email: najlaaunio6@gmail.com<br>
 💼 LinkedIn: [najla auni](https://www.linkedin.com/in/najla-auni-a1607a378/)<br>
-💬 WhatsApp: Chat with me<br>
-👣 Instagram: [najlaaunii](https://www.instagram.com/najlaaunii/)<br>
 

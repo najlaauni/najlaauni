@@ -51,8 +51,8 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 [SECR1013 - Digital Logic](https://github.com/najlaauni/UniversityLife/tree/main/SECR1013%20-%20Digital%20Logic)<br>
 [ULRS1032 - Integrity and Anti-Corruption](https://github.com/najlaauni/UniversityLife/tree/main/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)<br>
 
-## Recent Projects
-📚 [Library Book Checkout System](https://github.com/najlaauni/UniversityProject/tree/main/Library%20Book%20Checkout%20System)
+## ✨ Recent Projects
+[Library Book Checkout System](https://github.com/najlaauni/UniversityProject/tree/main/Library%20Book%20Checkout%20System)
 
 ## 🧠 Skills
 - Programming: C++, HTML, CSS 
@@ -70,4 +70,8 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 🔗 GitHub: [najlaauni](https://github.com/najlaauni)<br>
 📧 Email: najlaaunio6@gmail.com<br>
 💼 LinkedIn: [najla auni](https://www.linkedin.com/in/najla-auni-a1607a378/)<br>
+
+## 💻 E-Portfolio
+🔗 Website : [E-Portfolio](https://najlaauni.github.io/najla.github.io/)
+📖 My Portfolio : [Portfolio in PDF]()
 

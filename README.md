@@ -73,5 +73,6 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 
 ## 💻 E-Portfolio
 🔗 Website : [E-Portfolio](https://najlaauni.github.io/najla.github.io/)<br>
-📖 My Portfolio : [Portfolio in PDF]()
+📖 My Portfolio : [Portfolio in PDF](https://github.com/user-attachments/files/24339619/NAJLA.AUNI.pdf)<br>
+💼 GitHub : [Personal E-Portfolio](https://github.com/najlaauni/najla.github.io)
 

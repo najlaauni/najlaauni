@@ -72,6 +72,6 @@ Satria Volunteer in Le Tour De Langkawi (International Level) - 2022<br>
 💼 LinkedIn: [najla auni](https://www.linkedin.com/in/najla-auni-a1607a378/)<br>
 
 ## 💻 E-Portfolio
-🔗 Website : [E-Portfolio](https://najlaauni.github.io/najla.github.io/)
+🔗 Website : [E-Portfolio](https://najlaauni.github.io/najla.github.io/)<br>
 📖 My Portfolio : [Portfolio in PDF]()
 

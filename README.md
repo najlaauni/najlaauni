@@ -1,4 +1,6 @@
 ## Hi there, I'm Najla Auni ! ✨
+![Profile views](https://komarev.com/ghpvc/?username=najlaauni&color=FF69B4&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-00C8FF?style=for-the-badge)](https://najlaauni.github.io/najla.github.io/)
 - 👩🏻‍🎓 First year Data Engineering student from Universiti Teknologi Malaysia
 - 🗺️ Spoken Languages : English, Malay
 - 💻 Fun fact : I love learning new tech stuff, especially when it makes life easier (or just looks cool)
